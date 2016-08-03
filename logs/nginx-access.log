@@ -1,0 +1,7 @@
+172.17.0.1 - - [30/Jul/2016:10:39:24 +0000] "GET / HTTP/1.1" 200 47 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+172.17.0.1 - - [30/Jul/2016:10:39:53 +0000] "GET / HTTP/1.1" 200 58 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+172.17.0.1 - - [30/Jul/2016:10:39:53 +0000] "GET /favicon.ico HTTP/1.1" 200 58 "http://localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+172.17.0.1 - - [30/Jul/2016:10:40:06 +0000] "GET / HTTP/1.1" 200 23872 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+172.17.0.1 - - [30/Jul/2016:10:40:06 +0000] "GET /favicon.ico HTTP/1.1" 200 23857 "http://localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+172.17.0.1 - - [30/Jul/2016:10:41:12 +0000] "GET /phpmyadmin HTTP/1.1" 200 23854 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+172.17.0.1 - - [30/Jul/2016:10:41:13 +0000] "GET /favicon.ico HTTP/1.1" 200 23815 "http://localhost/phpmyadmin" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
